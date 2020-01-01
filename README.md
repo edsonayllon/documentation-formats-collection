@@ -104,7 +104,7 @@ Email: email@mail.com
 
 # Forward
 
-Introduces ISO as an entity, and provides insight to the standardizaation process.
+Introduces ISO as an entity, and provides insight to the standardization process.
 
 # 0 Introduction
 
@@ -120,7 +120,7 @@ Definition, **reference to term two** (3.2).
 
 ## 3.2 Term two
 
-Defintion
+Definition
 
 ...
 
