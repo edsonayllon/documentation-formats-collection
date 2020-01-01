@@ -63,6 +63,38 @@ Email: email@mail.com
 
 ---
 
+> ### ASTM Internation Specifications
+
+## Designation D 555-20a 
+# Standard Specification for ...
+
+This standard has been issued under the fixed designation of D 555; the number immediately following indicates year of original adoption, or year of last revision.
+
+*This standard has been approved by ...*
+
+## 1 | Scope
+
+## 2 | Referenced Documents
+
+## 3 | Terminology
+
+3.1 *Definitions:*
+
+3.1.1 *Term 1*—Definition.
+
+3.1.2 *Term 2*—Definition.
+
+## 4 | Significance and Use
+
+## 5 | Heading
+
+## 6 | Heading
+
+*Disclaimer*
+
+
+---
+
 > ### ISO Standards
 
 # ISO 55555:2020(en) 
@@ -113,4 +145,5 @@ Defintion
 # Annex A
 
 # Bibliography
+
 
