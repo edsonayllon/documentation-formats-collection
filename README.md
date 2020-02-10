@@ -8,7 +8,7 @@ status: complete and ongoing
 twitter: https://twitter.com/relativeread
 ---
 
-## Resource 8-2020
+## Research 8-2020
 # documentation-formats-collection
 Collection of different style guides for technical documents
 
